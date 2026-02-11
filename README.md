@@ -50,6 +50,16 @@ This project includes:
 
 # 🖼 User Interface Snapshots
 
+![Dashboard UI](https://i.imgur.com/1mgOS8m.png)  
+*SafePayAI User Dashboard UI*
+
+![Fraud Detection UI](https://i.imgur.com/4h5D08o.png)  
+*Fraud Detection Warning*
+
+![Recent Transaction UI](https://i.imgur.com/6AwLhGA.png)  
+*Recent Transaction History*
+
+
 **Dashboard UI**
 
 ```
@@ -271,7 +281,7 @@ SafePayAI/
 
 ---
 
-# 📄 Nigerian BSc Student Project Context
+# 📄 A BSc Project
 
 * Partial BSc project in **Computer Science / Software Engineering**
 * Focus: Fraud detection in digital payment systems for Nigerian context
@@ -280,18 +290,4 @@ SafePayAI/
 
 ---
 
-# 🔮 Future Improvements
 
-* Integration with real Nigerian UPI systems
-* Advanced behavioral analytics for Nigerian payment patterns
-* Mobile app deployment
-* Model explainability and compliance auditing
-
----
-
-# 📜 License
-
-Open-source under **MIT License**
-
-```
-```
