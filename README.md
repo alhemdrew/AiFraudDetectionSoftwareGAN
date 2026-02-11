@@ -104,7 +104,7 @@ This project includes:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Shabopp/FraudDetectionUsingGAN.git
+git clone https://github.com/Alhemdrew/software/AiFraudDetectionSoftwareGAN.git
 cd FraudDetectionUsingGAN
 ```
 
